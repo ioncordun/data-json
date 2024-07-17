@@ -1,0 +1,33 @@
+{
+  "operatore": "enel",
+  "sito_operatore": "www.enel.it",
+  "stations": [
+    {
+      "id_stazione": "10001",
+      "nome_stazione": "ghcampione01",
+      "cap": " *********",
+      "lat": "45,97195",
+      "lng": "8,97152",
+      "tipo_indirizzo": "via",
+      "indirizzo": "Via matteo da Campione, 2",
+      "comune": "22061",
+      "regione": "Lombardia",
+      "provincia": "como",
+      "sostenibilita": "*********",
+      "disponibilità_stazione": "TRUE",
+      "accessibilità_stazione": "Privato con accesso pubblico",
+      "punti_prelievo": [
+        {
+          "id_punto_prelievo": "*********",
+          "tipologia_punto_prelievo_energia": "**",
+          "potenza_punto_prelievo_energia": "*"
+        },
+        {
+          "id_punto_prelievo": "*********",
+          "tipologia_punto_prelievo_energia": "**",
+          "potenza_punto_prelievo_energia": "**"
+        }
+      ]
+    }
+  ]
+}
